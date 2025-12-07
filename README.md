@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ron
 
-<!--
-**RonEstrin12/RonEstrin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Systems Programming & Machine Learning
+Student at Azrieli College of Engineering
+Passionate about systems programming, networking, and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Systems Programming
+
+
+### Machine Learning & Algorithms
+
+
+### Low-Level & Development
+
+---
+
+## Tech Stack
+
+* **Systems:** C, C++, POSIX, Multithreading, Socket Programming
+* **ML & Data:** Python, Java, Git, Linux
+* **Other:** HTML/CSS
+
+---
+
+## Contact & Links
+* **Email:** [ronqik054@gmail.com](mailto:ronqik054@gmail.com)
+* **LinkedIn:** [Ron Estrin](https://www.linkedin.com/in/ron-estrin-a0782b35b/)
