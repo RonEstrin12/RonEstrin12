@@ -20,7 +20,7 @@ Passionate about systems programming, networking, and machine learning.
 
 ## Tech Stack
 
-* **Systems:** C, C++, POSIX, Multithreading, Socket Programming
+* **Systems:** C, C++, Multithreading, Socket Programming
 * **ML & Data:** Python, Java, Git, Linux
 * **Other:** HTML/CSS
 
