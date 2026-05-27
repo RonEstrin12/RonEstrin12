@@ -18,11 +18,14 @@ Passionate about systems programming, networking, and machine learning.
 
 ---
 
-## Tech Stack
+## T E C H N I C A L S K I L L S
 
-* **Systems:** C, C++, Multithreading, Socket Programming
-* **ML & Data:** Python, Java, Git, Linux
-* **Other:** HTML/CSS
+* ##Languages: Python, Java, C++, C, JavaScript, TypeScript, SQL
+* ##Frontend: React, HTML, CSS, REST API Integration, Responsive UI
+* ## Backend: FastAPI, Node.js, Express, RESTful APIs, Authentication, RBAC, Multi-Tenant Architecture
+* ## Databases: PostgreSQL, SQLite, MongoDB
+* ## DevOps & Tools: Docker, Git, Linux, CI/CD, Swagger, Postman, GitHub Copilot, Claude Code
+* ## Core Areas: Operating Systems, Computer Communications, OOP, Distributed Systems, AI-Assisted Development
 
 ---
 
