@@ -1,9 +1,6 @@
 # Hi, I'm Ron
 
-### Software Engineering Student | Systems Programming & Machine Learning
-Student at Azrieli College of Engineering
-Passionate about systems programming, networking, and machine learning.
-
+### Software Engineering graduate (B.Sc.) | Backend, DevOps & Automation | Linux, Docker, CI/CD, Python
 ---
 
 ## Featured Projects
