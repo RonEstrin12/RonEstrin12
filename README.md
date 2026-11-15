@@ -3,18 +3,6 @@
 ### Software Engineering graduate (B.Sc.) | Backend, DevOps & Automation | Linux, Docker, CI/CD, Python
 ---
 
-## Featured Projects
-
-### Systems Programming
-
-
-### Machine Learning & Algorithms
-
-
-### Low-Level & Development
-
----
-
 ## T E C H N I C A L S K I L L S
 
 * ** Languages: Python, Java, C++, C, JavaScript, TypeScript, SQL
